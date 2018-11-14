@@ -1,0 +1,13 @@
+Colin Van Overschelde
+4/29/2018
+CS-325
+Assignment 4
+
+Greedy Select
+* To compile the greedySelect program from the command line:
+    1. Navigate to the folder containing:
+	* greedySelect.cpp
+	* act.txt
+    2. Type the command: g++ greedySelect.cpp -o greedy
+    3. Program will compile
+    4. When the compile finishes, enter the command: greedy
