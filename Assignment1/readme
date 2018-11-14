@@ -1,0 +1,26 @@
+Colin Van Overschelde
+4/8/2016
+CS-325
+Assignment 1
+
+Merge Sort
+* To compile the mergesort program from the command line: 
+    1. Navigate to the folder containing:
+	* mergesort.cpp
+	* helpers.hpp
+	* helpers.cpp
+	* data.txt
+    2. Type the command: g++ helpers.cpp mergesort.cpp -o mergesort
+    3. Program will compile
+    4. When compile finishes, enter the command: mergesort
+
+Insert Sort
+* To compile the insertsort program, from the command line:
+    1. Navigate to the folder containing:
+	* mergesort.cpp
+	* helpers.hpp
+	* helpers.cpp
+	* data.txt
+    2. Type the command: g++ helpers.cpp insertsort.cpp -o insertsort
+    3. Program will compile
+    4. When compile finishes, enter the command: insertsort
