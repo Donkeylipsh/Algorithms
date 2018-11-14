@@ -1,0 +1,16 @@
+Colin Van Overschelde
+4/22/2018
+CS-325
+Assignment 3
+
+Make Change
+* To compile the makechange program from the command line: 
+    1. Navigate to the folder containing:
+	* makechange.cpp
+	* makechange.hpp
+	* readFile.hpp
+	* readFile.cpp
+	* amount.txt
+    2. Type the command: g++ -std=c++0x makechange.cpp readFile.cpp -o makechange
+    3. Program will compile
+    4. When compile finishes, enter the command: makechange
