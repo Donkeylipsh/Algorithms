@@ -1,0 +1,15 @@
+Colin Van Overschelde
+4/15/2018
+CS-325
+Assignment 2
+
+Stooge Sort
+* To compile the stoogesort program from the command line: 
+    1. Navigate to the folder containing:
+	* stoogesort.cpp
+	* helpers.hpp
+	* helpers.cpp
+	* data.txt
+    2. Type the command: g++ helpers.cpp stoogesort.cpp -o stoogesort
+    3. Program will compile
+    4. When compile finishes, enter the command: stoogesort
